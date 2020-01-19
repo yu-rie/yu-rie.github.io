@@ -1,4 +1,4 @@
-![N予備校画像]("fde20fd0-private.png" = 100x100)
+![N予備校画像](fde20fd0-private.png)
 # About
 誰がやっても同じ結果になる仕事は全部機械にやらせたい。
 
